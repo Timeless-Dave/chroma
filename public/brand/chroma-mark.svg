@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none" role="img" aria-label="Chroma mark">
+  <rect width="512" height="512" rx="118" fill="#111114"/>
+  <defs>
+    <linearGradient id="chroma-mark" x1="96" y1="64" x2="416" y2="448" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset="0.5" stop-color="#D946EF"/>
+      <stop offset="1" stop-color="#FB923C"/>
+    </linearGradient>
+  </defs>
+  <path
+    d="M344 162a139 139 0 1 0-3 182"
+    stroke="url(#chroma-mark)"
+    stroke-width="56"
+    stroke-linecap="round"
+    fill="none"
+  />
+  <circle cx="349" cy="158" r="26" fill="#FDE68A"/>
+</svg>
