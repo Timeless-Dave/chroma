@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" fill="none" role="img" aria-label="Chroma">
+  <rect width="180" height="180" rx="42" fill="#111114"/>
+  <defs>
+    <linearGradient id="chroma-apple" x1="34" y1="24" x2="146" y2="156" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset="0.5" stop-color="#D946EF"/>
+      <stop offset="1" stop-color="#FB923C"/>
+    </linearGradient>
+  </defs>
+  <path
+    d="M121 58a49 49 0 1 0-1 64"
+    stroke="url(#chroma-apple)"
+    stroke-width="20"
+    stroke-linecap="round"
+    fill="none"
+  />
+  <circle cx="122" cy="56" r="9" fill="#FDE68A"/>
+</svg>

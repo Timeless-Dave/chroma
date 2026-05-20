@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none" role="img" aria-label="Chroma">
+  <rect width="32" height="32" rx="8" fill="#111114"/>
+  <defs>
+    <linearGradient id="chroma-favicon" x1="6" y1="4" x2="26" y2="28" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset="0.5" stop-color="#D946EF"/>
+      <stop offset="1" stop-color="#FB923C"/>
+    </linearGradient>
+  </defs>
+  <path
+    d="M21.5 10.2a8.8 8.8 0 1 0-.2 11.6"
+    stroke="url(#chroma-favicon)"
+    stroke-width="3.6"
+    stroke-linecap="round"
+    fill="none"
+  />
+  <circle cx="21.8" cy="10" r="1.6" fill="#FDE68A"/>
+</svg>
