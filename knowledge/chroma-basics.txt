@@ -1,0 +1,20 @@
+1. **What is Chroma?**
+Chroma is a lightweight AI chat workspace that lets you converse with models using either a curated knowledge base or open web-style general reasoning. It is designed to be fast, clean, and customizable across devices.
+
+2. **What is Knowledge Base mode?**
+Knowledge Base mode retrieves relevant passages from a selected corpus using vector embeddings and cosine similarity, then grounds the model's answer in that context. This is ideal for FAQ-style or domain-specific questions.
+
+3. **What is Web mode?**
+Web mode answers from the model's general training knowledge without retrieving from a local corpus. Use it for broader questions that go beyond your uploaded knowledge brain.
+
+4. **How do I switch knowledge brains?**
+Use the source dropdown in the chat box to switch between Knowledge and Web mode, and pick a different knowledge base when using Knowledge mode.
+
+5. **How are chats stored?**
+Chats are saved locally in your browser. You can create new chats, rename them, or delete them from the sidebar. Chroma does not sync chats across devices unless you export them manually.
+
+6. **Can I attach files?**
+You can attach plain text files to enrich a message with extra context. Image analysis and multi-format uploads are planned; the attach buttons are available in the composer for future expansion.
+
+7. **Does Chroma support voice input?**
+Chroma includes a microphone button that uses your browser's speech recognition when available. Tap the mic, speak your question, and the transcript will appear in the composer.
